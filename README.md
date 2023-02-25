@@ -10,6 +10,6 @@
 1. Get Data 
 2. Prepare Data 
 3. Exploratory Data Analysis 
-4. Create New Features 
-5. Deal with any Missing Data 
+4. Deal with any Missing Data 
+5. Create New Features 
 6. Use Data Visulization 
