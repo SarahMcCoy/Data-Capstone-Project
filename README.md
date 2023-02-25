@@ -6,7 +6,7 @@
 - Project Tools: Python (libraries: Numpy, Pandas) Data Visualization Tools: Matplotlib and Seaborn 
 - Emergency (911) calls Data: Fire, Traffic, EMS for Montgomery County, PA from [Kaggle](https://www.kaggle.com/datasets/mchirico/montcoalert). 
 
-### Tasks
+### Tasks:
 1. Get Data 
 2. Prepare Data 
 3. Exploratory Data Analysis 
