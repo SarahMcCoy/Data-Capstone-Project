@@ -12,4 +12,4 @@
 3. Exploratory Data Analysis 
 4. Deal with any Missing Data 
 5. Create New Features 
-6. Use Data Visulization 
+6. Use Data Visualization
