@@ -13,3 +13,6 @@
 4. Deal with any Missing Data 
 5. Create New Features 
 6. Use Data Visualization
+
+### Result:
+As a result, I found that a high volume of 911 (emergency calls) in Montgomery County Pennsylvania related to EMS and Traffic accidents around 3 to 6 p.m. With the high volume of traffic accident calls, accidents could interfere with EMS arrival time. With this information, Montgomery County can plan to improve safety protocols and emergency measures to promote better outcomes for the County.
